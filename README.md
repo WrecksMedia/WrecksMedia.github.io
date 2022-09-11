@@ -1,2 +1,2 @@
-# posterart
+# WrecksMedia
 Poster art by Wrecks
